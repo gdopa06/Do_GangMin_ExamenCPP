@@ -1,0 +1,3 @@
+C:/Users/micha/Desktop/tarea/Do_GangMin_ExamenCPP/cmake-build-debug/CMakeFiles/Do_GangMin_ExamenCPP.dir
+C:/Users/micha/Desktop/tarea/Do_GangMin_ExamenCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/Desktop/tarea/Do_GangMin_ExamenCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

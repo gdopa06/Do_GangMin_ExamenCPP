@@ -1,5 +1,5 @@
 
-## LINK REPOSITORIO: 
+## LINK REPOSITORIO: https://github.com/gdopa06/Do_GangMin_ExamenCPP.git
 
 # Condiciones de Entrega del Examen de Programación en C++
 

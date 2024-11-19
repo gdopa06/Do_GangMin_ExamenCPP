@@ -73,6 +73,42 @@ build CMakeFiles/Do_GangMin_ExamenCPP.dir/Gestion_de_Materias/ImplementacióneN.
   OBJECT_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir
   OBJECT_FILE_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir\Gestion_de_Materias
 
+build CMakeFiles/Do_GangMin_ExamenCPP.dir/Registro_de_Asistencia/IMplementaciónEn.cpp.obj: CXX_COMPILER__Do_GangMin_ExamenCPP_unscanned_Debug C$:/Users/micha/Desktop/tarea/Do_GangMin_ExamenCPP/Registro$ de$ Asistencia/IMplementaciónEn.cpp || cmake_object_order_depends_target_Do_GangMin_ExamenCPP
+  DEP_FILE = CMakeFiles\Do_GangMin_ExamenCPP.dir\Registro_de_Asistencia\IMplementaciónEn.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir\Registro_de_Asistencia
+
+build CMakeFiles/Do_GangMin_ExamenCPP.dir/Registro_de_Asistencia/IMplementaciónEn.c.obj: C_COMPILER__Do_GangMin_ExamenCPP_unscanned_Debug C$:/Users/micha/Desktop/tarea/Do_GangMin_ExamenCPP/Registro$ de$ Asistencia/IMplementaciónEn.c || cmake_object_order_depends_target_Do_GangMin_ExamenCPP
+  DEP_FILE = CMakeFiles\Do_GangMin_ExamenCPP.dir\Registro_de_Asistencia\IMplementaciónEn.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir\Registro_de_Asistencia
+
+build CMakeFiles/Do_GangMin_ExamenCPP.dir/Manejo_de_Excepciones/IMPLEmENTACIÓNEN.c.obj: C_COMPILER__Do_GangMin_ExamenCPP_unscanned_Debug C$:/Users/micha/Desktop/tarea/Do_GangMin_ExamenCPP/Manejo$ de$ Excepciones/IMPLEmENTACIÓNEN.c || cmake_object_order_depends_target_Do_GangMin_ExamenCPP
+  DEP_FILE = CMakeFiles\Do_GangMin_ExamenCPP.dir\Manejo_de_Excepciones\IMPLEmENTACIÓNEN.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir\Manejo_de_Excepciones
+
+build CMakeFiles/Do_GangMin_ExamenCPP.dir/Manejo_de_Excepciones/IMPLEMENTACIONEN.cpp.obj: CXX_COMPILER__Do_GangMin_ExamenCPP_unscanned_Debug C$:/Users/micha/Desktop/tarea/Do_GangMin_ExamenCPP/Manejo$ de$ Excepciones/IMPLEMENTACIONEN.cpp || cmake_object_order_depends_target_Do_GangMin_ExamenCPP
+  DEP_FILE = CMakeFiles\Do_GangMin_ExamenCPP.dir\Manejo_de_Excepciones\IMPLEMENTACIONEN.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir\Manejo_de_Excepciones
+
+build CMakeFiles/Do_GangMin_ExamenCPP.dir/Control_de_Errores/ControlErroresEn.cpp.obj: CXX_COMPILER__Do_GangMin_ExamenCPP_unscanned_Debug C$:/Users/micha/Desktop/tarea/Do_GangMin_ExamenCPP/Control$ de$ Errores/ControlErroresEn.cpp || cmake_object_order_depends_target_Do_GangMin_ExamenCPP
+  DEP_FILE = CMakeFiles\Do_GangMin_ExamenCPP.dir\Control_de_Errores\ControlErroresEn.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir\Control_de_Errores
+
+build CMakeFiles/Do_GangMin_ExamenCPP.dir/Control_de_Errores/ControErroresEn.c.obj: C_COMPILER__Do_GangMin_ExamenCPP_unscanned_Debug C$:/Users/micha/Desktop/tarea/Do_GangMin_ExamenCPP/Control$ de$ Errores/ControErroresEn.c || cmake_object_order_depends_target_Do_GangMin_ExamenCPP
+  DEP_FILE = CMakeFiles\Do_GangMin_ExamenCPP.dir\Control_de_Errores\ControErroresEn.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir\Control_de_Errores
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Do_GangMin_ExamenCPP
@@ -81,7 +117,7 @@ build CMakeFiles/Do_GangMin_ExamenCPP.dir/Gestion_de_Materias/ImplementacióneN.
 #############################################
 # Link the executable Do_GangMin_ExamenCPP.exe
 
-build Do_GangMin_ExamenCPP.exe: CXX_EXECUTABLE_LINKER__Do_GangMin_ExamenCPP_Debug CMakeFiles/Do_GangMin_ExamenCPP.dir/EstructuraEstudiante/ImplementacionEn.cpp.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/EstructuraEstudiante/ImplementaciónEn.c.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/Gestion_de_Materias/ImplementacióneN.cpp.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/Gestion_de_Materias/ImplementacióneN.c.obj
+build Do_GangMin_ExamenCPP.exe: CXX_EXECUTABLE_LINKER__Do_GangMin_ExamenCPP_Debug CMakeFiles/Do_GangMin_ExamenCPP.dir/EstructuraEstudiante/ImplementacionEn.cpp.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/EstructuraEstudiante/ImplementaciónEn.c.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/Gestion_de_Materias/ImplementacióneN.cpp.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/Gestion_de_Materias/ImplementacióneN.c.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/Registro_de_Asistencia/IMplementaciónEn.cpp.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/Registro_de_Asistencia/IMplementaciónEn.c.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/Manejo_de_Excepciones/IMPLEmENTACIÓNEN.c.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/Manejo_de_Excepciones/IMPLEMENTACIONEN.cpp.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/Control_de_Errores/ControlErroresEn.cpp.obj CMakeFiles/Do_GangMin_ExamenCPP.dir/Control_de_Errores/ControErroresEn.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Do_GangMin_ExamenCPP.dir

@@ -22,6 +22,7 @@ public:
     }
 };
 
+
 int main() {
     // Crear instancia de Estudiante
     Estudiante estudiante("Juan Pérez", 20, 8.9);

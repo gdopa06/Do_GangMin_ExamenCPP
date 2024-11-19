@@ -15,6 +15,7 @@ void mostrarEstudiante(const Estudiante* estudiante) {
     printf("Promedio: %.2f\n", estudiante->promedio);
 }
 
+
 int main() {
     // Crear instancia de Estudiante
     Estudiante estudiante;

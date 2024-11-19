@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Do_GangMin_ExamenCPP
     EstructuraEstudiante/ImplementacionEn.cpp
-    EstructuraEstudiante/ImplementaciónEn.c)
+    EstructuraEstudiante/ImplementaciónEn.c
+        "Gestion de Materias/ImplementacióneN.cpp"
+        "Gestion de Materias/ImplementacióneN.c")
